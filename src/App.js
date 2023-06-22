@@ -7,8 +7,9 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
+          React App running on a Docker Container !!!
+          with Docker Compose
+        </p>      
         <a
           className="App-link"
           href="https://reactjs.org"
